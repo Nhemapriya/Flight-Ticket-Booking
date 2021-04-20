@@ -3,6 +3,9 @@
 An airline operates multiple flights from Chennai to Mangalore. The aim is to write a basic
 ticket booking program for their flights.
 
+A database is created locally and the details from the file inputs are stored in the database.
+Two files are used as sample inputs with flightname as file name.
+
 ## Modules involved 
 1) Welcome
 2) Login
