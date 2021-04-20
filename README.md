@@ -84,6 +84,8 @@ On specifying the booking ID, the ticket is cancelled. The cancellation fee is c
 
 ![Schema](https://user-images.githubusercontent.com/58515646/115339089-ba392780-a1c1-11eb-878e-22588da2e234.JPG)
 
+Cd to AirlineReservation/src run Welcome.java
+
 ### Sample DB from file and user inputs
 
 ![f1](https://user-images.githubusercontent.com/58515646/115339588-b5c13e80-a1c2-11eb-9b13-426f96c30ce3.JPG)
