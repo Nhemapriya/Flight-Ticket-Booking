@@ -270,7 +270,7 @@ public class ViewTicket extends javax.swing.JFrame {
     }
        catch(Exception e)
        {
-           
+           System.out.println(e);
        }
     }//GEN-LAST:event_jButton1ActionPerformed
 

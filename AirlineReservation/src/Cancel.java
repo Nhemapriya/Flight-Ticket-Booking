@@ -126,7 +126,7 @@ public class Cancel extends javax.swing.JFrame {
         }
         catch(Exception e)
         {
-            
+            System.out.println(e);
         }
         
         
